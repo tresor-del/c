@@ -12,7 +12,6 @@ int main () {
         printf("Note %d: ", i+1);
         scanf("%d", &note);
         tableau_de_note[i] = note;
-
     }
 
     printf("Le tableau de note est: [");
